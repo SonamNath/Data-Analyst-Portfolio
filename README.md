@@ -11,6 +11,12 @@ I am an aspiring data analyst, driven by curiosity and fueled by the desire to u
 With a foundation in data fundamentals and a hunger for learning, I'm eager to embark on a path that leads to data-driven discoveries.
 My dedication to comprehending complex data structures and uncovering valuable insights fuels my pursuit of mastery in this field.
 
+## **📚 Certifications**
+As a testament to my commitment to data excellence, I have earned the following certifications:
+
+[**Advanced SQL Certification**](https://www.hackerrank.com/certificates/24d451789ad3) : [Hackerrank]
+
+
 ## **📊 What Awaits You?**
 
 ~~_I am still working on these_~~
