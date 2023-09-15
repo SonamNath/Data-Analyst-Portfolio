@@ -15,6 +15,7 @@ My dedication to comprehending complex data structures and uncovering valuable i
 As a testament to my commitment to data excellence, I have earned the following certifications:
 
 [**Advanced SQL Certification**](https://www.hackerrank.com/certificates/24d451789ad3) : [Hackerrank]
+
 [**Power BI Data Analyst Associate**](https://learn.microsoft.com/api/credentials/share/en-us/sonamnath-4097/7A5451435F82A282?sharingId=ABF77CDB7A00DB7E) : [Microsoft]
 
 
