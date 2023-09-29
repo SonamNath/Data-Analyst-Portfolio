@@ -21,9 +21,9 @@ As a testament to my commitment to data excellence, I have earned the following 
 
 ## **📊 What Awaits You?**
 
-~~_I am still working on these_~~
+[**Superstore Power Bi Report**](https://github.com/SonamNath/SuperstorePowerBi): This project involves the analysis and visualization of sales data from the Superstore dataset, which was imported from Kaggle. The primary goal is to gain insights into the sales performance of the Superstore and create an interactive Power BI dashboard for business stakeholders.
 
-~~_Stay tuned! It's Coming Soon_~~
+~~_Stay tuned! There will be more Soon_~~
 
 ## **🛠️ Tools of the Trade**
 
