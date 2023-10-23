@@ -21,6 +21,8 @@ As a testament to my commitment to data excellence, I have earned the following 
 
 ## **📊 What Awaits You?**
 
+[**CSV-CHUNK-CREATOR**](https://github.com/SonamNath/csvchunkcreator): The CSV Data Chunking and Cleaning project focuses on efficiently handling and organizing data from CSV files. The main objective of this project is to import a CSV file, clean the data, and divide it into manageable chunks, which are then stored in multiple CSV files.
+
 [**Superstore Power Bi Report**](https://github.com/SonamNath/SuperstorePowerBi): This project involves the analysis and visualization of sales data from the Superstore dataset, which was imported from Kaggle. The primary goal is to gain insights into the sales performance of the Superstore and create an interactive Power BI dashboard for business stakeholders.
 
 ~~_Stay tuned! There will be more Soon_~~
